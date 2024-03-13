@@ -5,6 +5,9 @@
 
 - <img width="1728" alt="image" src="https://github.com/kishanngupta/kishanngupta/assets/50067027/6d5e11ca-f90e-4b67-9bfc-9211f78c0dda">
 
+## My LeetCode stats
+[![hashtag_kishan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hashtag_kishan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 <!---
 - 💞️ I’m looking to collaborate on 
 --->
