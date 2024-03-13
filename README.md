@@ -1,4 +1,4 @@
-## Bio
+## Quick Overview
 - 👋 Hi, I’m Kishan Gupta (@kishanngupta)
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI and exploring different features of iOS
@@ -6,3 +6,10 @@
 
 ## My LeetCode stats
 [![hashtag_kishan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hashtag_kishan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+## My Github stats
+![kishanngupta's Stats](https://github-readme-stats.vercel.app/api?username=kishanngupta&theme=dark&show_icons=true&hide_border=false&count_private=false)
+
+![kishanngupta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishanngupta&theme=dark&hide_border=false)
+
+![kishanngupta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanngupta&theme=dark&show_icons=true&hide_border=false&layout=compact)
