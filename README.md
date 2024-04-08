@@ -8,7 +8,7 @@
 [![hashtag_kishan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hashtag_kishan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ## My Github stats
-![](https://komarev.com/ghpvc/?username=kishanngupta&color=blueviolet&style=for-the-badge&base=0)
+![](https://komarev.com/ghpvc/?username=kishanngupta&color=blueviolet&style=for-the-badge&base=1234)
 
 ![kishanngupta's Stats](https://github-readme-stats.vercel.app/api?username=kishanngupta&theme=dark&show_icons=true&hide_border=false&count_private=false)
 
