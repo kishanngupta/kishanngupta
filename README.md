@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning SwiftUI and exploring different features of iOS
 - 📫 You can reach me on g.kis905@gmail.com
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=100&size=12&pause=4500&color=ffffff&vCenter=true&width=600&lines=Checkout+my+leetcode+repository+for+DSA+solutions+(see+pinned+repo))
+
 ## My LeetCode stats
 [![hashtag_kishan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hashtag_kishan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
